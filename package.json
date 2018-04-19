@@ -1,0 +1,22 @@
+{
+  "name": "cloudart",
+  "version": "1.0.0",
+  "description": "Weather but pretty",
+  "main": "weatherPuller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bfnagle/CloudArt.git"
+  },
+  "author": "Madeeha and Brendan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bfnagle/CloudArt/issues"
+  },
+  "homepage": "https://github.com/bfnagle/CloudArt#readme",
+  "dependencies": {
+    "node-gyp": "^3.6.2"
+  }
+}
