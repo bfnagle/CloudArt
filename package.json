@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/bfnagle/CloudArt#readme",
   "dependencies": {
-    "node-gyp": "^3.6.2"
+    "axios": "^0.18.0",
+    "node-gyp": "^3.6.2",
+    "offgrid-lights": "^0.2.0"
   }
 }
